@@ -37,6 +37,11 @@ Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
 pip install -r requirements.txt # install required pacakages
 ```
 
+### Run server
+```
+python app.py
+```
+
 # deactivate venv
 ```
 deacticate
